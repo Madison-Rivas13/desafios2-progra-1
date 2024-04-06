@@ -1,0 +1,8 @@
+C:\Users\serme\OneDrive\Escritorio\desafios de programación 1 Madisson\desafio2.2\bin\Debug\desafio2.2.exe.config
+C:\Users\serme\OneDrive\Escritorio\desafios de programación 1 Madisson\desafio2.2\bin\Debug\desafio2.2.exe
+C:\Users\serme\OneDrive\Escritorio\desafios de programación 1 Madisson\desafio2.2\bin\Debug\desafio2.2.pdb
+C:\Users\serme\OneDrive\Escritorio\desafios de programación 1 Madisson\desafio2.2\obj\Debug\desafio2.2.csproj.AssemblyReference.cache
+C:\Users\serme\OneDrive\Escritorio\desafios de programación 1 Madisson\desafio2.2\obj\Debug\desafio2.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\serme\OneDrive\Escritorio\desafios de programación 1 Madisson\desafio2.2\obj\Debug\desafio2.2.csproj.CoreCompileInputs.cache
+C:\Users\serme\OneDrive\Escritorio\desafios de programación 1 Madisson\desafio2.2\obj\Debug\desafio2.2.exe
+C:\Users\serme\OneDrive\Escritorio\desafios de programación 1 Madisson\desafio2.2\obj\Debug\desafio2.2.pdb
